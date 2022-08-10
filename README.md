@@ -14,7 +14,7 @@
 <img align="left" alt="Git" width="32px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 <img align="left" alt="GitHub" width="32px" src="https://www.kindpng.com/picc/m/255-2558173_github-logo-png-transparent-png.png" />
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<img alt="Codewars" width="32px" src="https://www.codewars.com/users/Slapchenko/badges/large />
 
 <!--
 **Slapchenko/Slapchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
